@@ -5,11 +5,6 @@ A console-based Java implementation of the popular game, Wordle. Players have 6 
 - **Yellow** for correct letters in the wrong position.
 - **No color** for incorrect letters.
 
-### Features
-- Reads a list of words from `wordle.txt`.
-- Tracks available letters and removes guessed letters.
-- Provides visual feedback through colored letters.
-
 ### How to Run
 1. Clone the repository:
    ```bash
