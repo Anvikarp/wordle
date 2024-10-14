@@ -1,4 +1,4 @@
-# wordle-java
+# Wordle
 ### Description
 A console-based Java implementation of the popular game, Wordle. Players have 6 attempts to guess a randomly selected 5-letter word. The program gives feedback on each guess by coloring the letters:
 - **Green** for correct letters in the correct position.
