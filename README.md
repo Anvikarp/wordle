@@ -18,5 +18,5 @@ A console-based Java implementation of the popular game, Wordle. Players have 6 
 
 
 ### Future Improvements
-- Add a graphical user interface (GUI) for a more interactive experience.
+- Add a GUI for a more interactive experience.
 - Disable players from entering guesses that are not real words
